@@ -1,3 +1,6 @@
+##
+Theoretically, this should continue working into the future, but I'm archiving this repo, because I'm going to move to working on an alternative (EBS in my repos), because I'm tired of having to fix OBS every other week.
+
 # OBS AppImage Maker
 
 This is a script that I cooked up that leans on JuNest to create an up to date (latest release) appimage for OBS Studio Browser with as much as I could manage to enable, enabled. The resulting AppImage will be fairly bulky (nearly 600MB) But given installing cef to build OBS takes up 2.1GB, this is more than a fair trade IMO.
